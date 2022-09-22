@@ -9,7 +9,8 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/mck224/)
 **Go Mountain Hawks**
 ![ME](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/IMG_5619.jpeg?raw=true)
 
-**Fall 2021 First-Year College Enrollment Percentages Infographic**
+# Fall 2021 First-Year College Enrollment Percentages Infographic
+
 The data on this inforgraphic was found on the Lehigh University [Profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) 
 The majority of first-year students in Fall of 2021 were enrolled in the College of Arts and Sciences. There are a total of 1519 students in the class. This data is published each year by the University. The College of Health has the least number of students only two years after its inception.
 
