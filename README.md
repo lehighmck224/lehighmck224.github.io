@@ -16,9 +16,9 @@ The majority of first-year students in Fall of 2021 were enrolled in the College
 
 ![Infographic](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Your%20paragraph%20text.png?raw=true)
 
-##What percentage of registered voters (ages 18-24) actually voted in the 2020 presidential election?
+# What percentage of registered voters (ages 18-24) actually voted in the 2020 presidential election?
 
-The data for this inforgraphic was found on the census.gov [Voting Table](https://www2.census.gov/programs-surveys/cps/tables/p20/585/table05_2.xlsx)
-I chose this data for the infograhpic because I think it is important for college students to understand voter turnout rates. The infographic depicts how education level affects likelihood to vote. It was concluded that the higher one's education level, the more likely it is for them to go out and vote. 18-24 year olds have the lowest voter turnout rate of any age group. This infographic shows that a majority of registered voters (ages 18-24) who are participating in higher education actually turn up to vote. to locate this data, I looked up voter turnout rates on google and found a [link](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-585.html) to a series of tables breaking down voter turnout numbers. I chose to look into 18-24 year olds because I was curious how college education affected voter turnout. 
+The data for this inforgraphic was found on the census.gov [Voting Table](https://www2.census.gov/programs-surveys/cps/tables/p20/585/table05_2.xlsx).
+I chose this data for the infograhpic because I think it is important for college students to understand voter turnout rates. The infographic depicts how education level affects likelihood to vote. It was concluded that the higher one's education level, the more likely it is for them to go out and vote. 18-24 year olds have the lowest voter turnout rate of any age group. This infographic shows that a majority of registered voters (ages 18-24) who are participating in higher education actually turn up to vote. To locate this data, I looked up voter turnout rates on Google and found a [link](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-585.html) to a series of tables breaking down voter turnout numbers. I chose to look into 18-24 year olds because I was curious how college education affected voter turnout. 
 
 ![Infographic](https://github.com/lehighmck224/lehighmck224.github.io/blob/de0e7ec99baa972a9a083b5cc25c406c8e18ccc9/18-24%20year%20olds.png)
