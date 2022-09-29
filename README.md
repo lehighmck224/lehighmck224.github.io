@@ -6,7 +6,7 @@ I never thought I would study Journlaims in college, but after taking Communicat
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/mck224/)
 
-**Go Mountain Hawks**
+
 <img src="https://github.com/lehighmck224/lehighmck224.github.io/blob/main/IMG_5619.jpeg?raw=true" alt="ME" width="400"/>
 
 # Fall 2021 First-Year College Enrollment Percentages Infographic
