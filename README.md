@@ -23,7 +23,7 @@ I chose this data for the infograhpic because I think it is important for colleg
 
 ![Infographic](https://github.com/lehighmck224/lehighmck224.github.io/blob/de0e7ec99baa972a9a083b5cc25c406c8e18ccc9/18-24%20year%20olds.png)
 
-#Le-Laf Rivalry Timeline
+# Le-Laf Rivalry Timeline
 
 ![Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GRHSZdoi_uqMsbpnVsnBDO2XIpu72Go3wPmCzaNkx64&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
 
