@@ -28,3 +28,9 @@ I chose this data for the infograhpic because I think it is important for colleg
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GRHSZdoi_uqMsbpnVsnBDO2XIpu72Go3wPmCzaNkx64&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 This graphic displays information from [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette–Lehigh)) on the history of the football rivalry between Lehigh University and Lafayette college. The timeline allows us to understand the origin of the rivalry in 1884 to its first year without a game in 2020. The timeline was created with the TimelineJS tool.
+
+# Women's Suffrage Timeline
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GRHSZdoi_uqMsbpnVsnBDO2XIpu72Go3wPmCzaNkx64&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+This graphic displays information from [National Women's History Museum](http://www.crusadeforthevote.org/woman-suffrage-timeline-18401920) on the important dates of the Women's Suffrage Movement. The timeline allows us to understand how long women fought for voting rights before the 19th Amendment passed. The timeline was created with the TimelineJS tool.
