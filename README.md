@@ -34,3 +34,7 @@ This graphic displays information from [Wikipedia](https://en.wikipedia.org/wiki
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GRHSZdoi_uqMsbpnVsnBDO2XIpu72Go3wPmCzaNkx64&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 This graphic displays information from [National Women's History Museum](http://www.crusadeforthevote.org/woman-suffrage-timeline-18401920) on the important dates of the Women's Suffrage Movement. The timeline allows us to understand how long women fought for voting rights before the 19th Amendment passed. The timeline was created with the TimelineJS tool.
+
+
+# Chartbuilder Practice
+![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/801e0678a9053831a1474eef14f1436946fd0833/chartbuilder.png)
