@@ -37,4 +37,4 @@ This graphic displays information from [National Women's History Museum](http://
 
 
 # Chartbuilder Practice
-![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/801e0678a9053831a1474eef14f1436946fd0833/chartbuilder.png)
+![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/chartbuilder.png?raw=true)
