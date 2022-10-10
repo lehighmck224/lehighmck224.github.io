@@ -38,3 +38,6 @@ This graphic displays information from [National Women's History Museum](http://
 
 # Chartbuilder Practice
 ![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/chartbuilder.png?raw=true)
+
+# One Direction Album Sales Chart
+![Album Sales](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/One_Direction_Album_Sales_Total_Sales_(copies)_chartbuilder-2.png?raw=true)
