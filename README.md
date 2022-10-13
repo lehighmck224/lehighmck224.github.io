@@ -44,3 +44,5 @@ This graphic displays information from [National Women's History Museum](http://
 
 # More Chartbuilder Practice
 ![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Percentages_of_students_in_Lehigh's_three_undergraduate_colleges_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
+![Life Satisfaction](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+
