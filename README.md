@@ -46,3 +46,6 @@ This graphic displays information from [National Women's History Museum](http://
 ![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Percentages_of_students_in_Lehigh's_three_undergraduate_colleges_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
 ![Life Satisfaction](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
+# Line Chart Project
+The following graph shows the avergae temperature recorded each year in Central Park from 2011 to 2020. The data was collected by weather.gov which averaged the daily recorded temperature to determine the average annual temperature. For the last ten years the average temperature has been between 54 and 58 degrees Fahrenheit.
+![Average Temp NYC](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Average_Temperature_in_Central_Park_(2011-2020)_Average_Temperature_chartbuilder.png?raw=true)
