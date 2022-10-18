@@ -40,11 +40,15 @@ This graphic displays information from [National Women's History Museum](http://
 ![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/chartbuilder.png?raw=true)
 
 # One Direction Album Sales Chart
+The following graph shows the 
 ![Album Sales](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/One_Direction_Album_Sales_Total_Sales_(copies)_chartbuilder-2.png?raw=true)
 
 # More Chartbuilder Practice
 ![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Percentages_of_students_in_Lehigh's_three_undergraduate_colleges_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
+This line graph shows us the undergraduate enrollment in Lehigh’s three undergraduate colleges over the past five year, indicating the rising and following popularity of various areas of study. The chart shows that over the past five years Lehigh’s College of Arts & Sciences has been the most popular of its three undergraduate colleges. It also shows us that enrollment is the College of Arts & Sciences has increased consistently over the last five years. The data shows that from Fall 2016 to Fall 2020, enrollment in the Engineering College decreased. All information was gathered from [Lehigh's Institutional Profile](https://oirsa.lehigh.edu/university-profile)
+
 ![Life Satisfaction](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+This scatterplot displays the GDP and life satisfaction in various countries in 2017 from the World Bank. It is interesting to see the relationship between the wealth of a country and the happiness of its citizens. The chart shows us that countries with higher GDP’s tend to have higher life satisfaction rates. The source of this data is [World Bank](https://ourworldindata.org/happiness-and-life-satisfaction)
 
 # Line Chart Project
 The following graph shows the avergae temperature recorded each year in Central Park from 2011 to 2020. The data was collected by weather.gov which averaged the daily recorded temperature to determine the average annual temperature. For the last ten years the average temperature has been between 54 and 58 degrees Fahrenheit.
