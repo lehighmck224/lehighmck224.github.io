@@ -53,3 +53,6 @@ This scatterplot displays the GDP and life satisfaction in various countries in 
 # Line Chart Project
 The following graph shows the avergae temperature recorded each year in Central Park from 2011 to 2020. The data was collected by weather.gov which averaged the daily recorded temperature to determine the average annual temperature. For the last ten years the average temperature has been between 54 and 58 degrees Fahrenheit.
 ![Average Temp NYC](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Average_Temperature_in_Central_Park_(2011-2020)_Average_Temperature_chartbuilder.png?raw=true)
+
+# Map Practice
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tpiN6N4FhqGpsuAWLLbTIg324009al8&ehbc=2E312F" width="640" height="480"></iframe>
