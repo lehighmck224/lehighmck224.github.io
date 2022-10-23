@@ -56,3 +56,8 @@ The following graph shows the avergae temperature recorded each year in Central 
 
 # Map Practice
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tpiN6N4FhqGpsuAWLLbTIg324009al8&ehbc=2E312F" width="640" height="480"></iframe>
+
+# Top 5 Restaurants in Bethlehem
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dLuQAD2tj9s_Lpx9g5jh3Cn_oWvXPZg&ehbc=2E312F" width="640" height="480"></iframe>
+Above is a map of the top 5 restaurants in Bethlehem. These restaurants are spread out throughout the city, both North side and South side. This ranking is from [Culture Trip] (https://theculturetrip.com/north-america/usa/pennsylvania/articles/top-10-restaurants-in-bethlehem-pennsylvania/). Jessica dawdy compiled this list and I made a spreadhseet based on her rankings. 
+
