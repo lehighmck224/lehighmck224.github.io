@@ -37,10 +37,13 @@ This graphic displays information from [National Women's History Museum](http://
 
 
 # Chartbuilder Practice
+This bar chart displays information from the Lehigh University [Profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) . It shows what percentage of students were enrolled in the various colleges in the Fall of 2020. We can see that the College of Arts & Sciences has the most students. The integrated program IDEAS, which combines arts and engineering, has the least amount of students. 
+
 ![Undergraduate Enrollment](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/chartbuilder.png?raw=true)
 
 # One Direction Album Sales Chart
-The following graph shows the 
+The following chart shows the sales for each of the One Direction albums. The sales are measured by copies of the album sold, each high in the millions. The chart shows that throughout the band’s career, they were selling less and less albums. This information was found on [BestSellingAlbums](https://bestsellingalbums.org/artist/9852).
+
 ![Album Sales](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/One_Direction_Album_Sales_Total_Sales_(copies)_chartbuilder-2.png?raw=true)
 
 # More Chartbuilder Practice
@@ -55,6 +58,7 @@ The following graph shows the avergae temperature recorded each year in Central 
 ![Average Temp NYC](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Average_Temperature_in_Central_Park_(2011-2020)_Average_Temperature_chartbuilder.png?raw=true)
 
 # Map Practice
+This map displays 2019 data from [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/) on the most bike-friendly cities. This map could be very useful for bicycling enthusiasts who are looking for travel destinations. It could also be useful to people on a budget, who are interested in living or traveling somewhere they can easily navigate via bicycle. This map was made with Google My Maps.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tpiN6N4FhqGpsuAWLLbTIg324009al8&ehbc=2E312F" width="640" height="480"></iframe>
 
 # Top 5 Restaurants in Bethlehem
