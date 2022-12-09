@@ -44,7 +44,7 @@ This line graph shows us the undergraduate enrollment in Lehigh’s three underg
 This scatterplot displays the GDP and life satisfaction in various countries in 2017 from the World Bank. It is interesting to see the relationship between the wealth of a country and the happiness of its citizens. The chart shows us that countries with higher GDP’s tend to have higher life satisfaction rates. The source of this data is [World Bank](https://ourworldindata.org/happiness-and-life-satisfaction)
 
 # Average Temperatures Recorded in Central Park
-The following graph shows the avergae temperature recorded each year in Central Park from 2011 to 2020. The data was collected by weather.gov which averaged the daily recorded temperature to determine the average annual temperature. For the last ten years the average temperature has been between 54 and 58 degrees Fahrenheit.
+The following graph shows the avergae temperature recorded each year in Central Park from 2011 to 2020. The data was collected by [weather.gov](https://www.weather.gov/media/okx/Climate/CentralPark/monthlyannualtemp.pdf) which averaged the daily recorded temperature to determine the average annual temperature. For the last ten years the average temperature has been between 54 and 58 degrees Fahrenheit.
 ![Average Temp NYC](https://github.com/lehighmck224/lehighmck224.github.io/blob/main/Average_Temperature_in_Central_Park_(2011-2020)_Average_Temperature_chartbuilder.png?raw=true)
 
 # Bike-Friendly Cities Map
